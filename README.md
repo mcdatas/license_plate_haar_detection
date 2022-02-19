@@ -1,1 +1,1 @@
-# license_plate_haar_detection
+# License-Plate-Detection
